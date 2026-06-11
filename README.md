@@ -1,2 +1,2 @@
 # liboka-issues
-Issue reporting for Liboka
+Bug reporting for Liboka
